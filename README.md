@@ -6,5 +6,5 @@
 
 ## Trainees
  - Rishabh Bhatnagar
- - Niranjan Patil
+ - Atul
  - Atul
